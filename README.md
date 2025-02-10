@@ -7,5 +7,6 @@
 2. I'm having soup for lunch.
 3. The cats are taking a nap
    * What a peaceful day.
--[]Task completed
--[x]Soup was awesome
+
+- [] Task completed
+- [x] Soup was awesome
