@@ -8,5 +8,5 @@
 3. The cats are taking a nap
    * What a peaceful day.
 
-- [] Task completed
+- [ ] Task completed
 - [x] Soup was awesome
